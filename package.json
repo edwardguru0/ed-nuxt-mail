@@ -15,6 +15,7 @@
     "send",
     "transport"
   ],
+  "repository": "edwardguru0/ed-nuxt-mail",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",

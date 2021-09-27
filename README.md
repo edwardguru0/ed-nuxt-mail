@@ -5,9 +5,9 @@
 <!-- BADGES/ -->
 [![NPM version](https://img.shields.io/npm/v/nuxt-mail.svg)](https://npmjs.org/package/nuxt-mail)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
-[![Build status](https://img.shields.io/github/workflow/status/undefined/build)](https://github.com/undefined/actions)
-[![Coverage status](https://img.shields.io/coveralls/undefined)](https://coveralls.io/github/undefined)
-[![Dependency status](https://img.shields.io/david/undefined)](https://david-dm.org/undefined)
+[![Build status](https://img.shields.io/github/workflow/status/edwardguru0/ed-nuxt-mail/build)](https://github.com/edwardguru0/ed-nuxt-mail/actions)
+[![Coverage status](https://img.shields.io/coveralls/edwardguru0/ed-nuxt-mail)](https://coveralls.io/github/edwardguru0/ed-nuxt-mail)
+[![Dependency status](https://img.shields.io/david/edwardguru0/ed-nuxt-mail)](https://david-dm.org/edwardguru0/ed-nuxt-mail)
 ![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen)
 
 <a href="https://www.buymeacoffee.com/dword">
@@ -16,7 +16,7 @@
     alt="Buy Me a Coffee"
     height="32"
   >
-</a><a href="https://gitpod.io/#https://github.com/undefined">
+</a><a href="https://gitpod.io/#https://github.com/edwardguru0/ed-nuxt-mail">
   <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
 </a>
 <a href="https://paypal.me/SebastianLandwehr">
